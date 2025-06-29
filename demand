@@ -1,0 +1,7 @@
+# inside your place2dxf folder
+git init
+git add .
+git commit -m "initial commit – place to DXF"
+git branch -M main
+git remote add origin https://github.com/opharsh22/place2dxf
+git push -u origin main
