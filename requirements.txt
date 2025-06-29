@@ -1,0 +1,10 @@
+duckdb==0.10.0
+geopandas
+shapely
+fsspec
+s3fs
+ezdxf
+requests
+pyproj
+flask
+pandas
